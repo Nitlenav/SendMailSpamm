@@ -7,62 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa6150f-f651-4ba6-bb28-d70d2a78b87c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/artifacts/sendMailClienPost_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/artifacts/tarAXE_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/description.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/libraries/Maven__javax_resource_connector_api_1_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/libraries/Maven__org_firebirdsql_jdbc_jaybird_jdk17_2_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/libraries/javax_mail.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/libraries/jaybird_full_3_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/project-template.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/prorramsJava.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/sendMailClienPost.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/ConnectingMailboxSendingMail/AuthenticationMailPost.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/ConnectingMailboxSendingMail/ConnectingToMailServer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/ConnectingMailboxSendingMail/Mail.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/ConnectingMailboxSendingMail/SendMail.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/ConnectingMailboxSendingMail/TextMessag.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/ActiveObjects.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/ButtonPathToFile.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/ButtonSendingFile.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/ConnectFirebird.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/CyclicDeliveryLetters.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/FindDataInArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/FindFileInPath.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/FirstColumnTableModel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/LogerMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/NumberOfDontSentMailTextField.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/NumberOfSentMailTextField.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/PathToFileTextFileld.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/ProgressBar.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/TextAndArea.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/TextAndField.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Controller/TextMessageAndArea.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Model/ModelData.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Model/ModelSend.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Model/Select.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Model/SelectActiveOrganizations.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Model/SelectActivePeoples.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/Model/SelectAll.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/View/FormSend.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/View/LeftPanel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/View/MainMenu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/SendMailPost/View/RightPanel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/sendMailClienPost/src/configTextMessage.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/src/org/programs/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/tarAXE/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/tarAXE/signalZabix.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/tarAXE/src/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/tarAXE/tarAXE.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../prorramsJava/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../prorramsJava/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/tarAXE/target/" />
@@ -402,6 +348,14 @@
       <option name="presentableId" value="Default" />
       <updated>1519913488397</updated>
     </task>
+    <task id="LOCAL-00001" summary="практически финальные изменения, только нужно добавить вывод лога">
+      <created>1522131050175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522131050175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -498,6 +452,8 @@
       <path value="E:\prorramsJava\sendMailClienPost\src\SendMailPost\SendMailPost" />
       <path value="$PROJECT_DIR$/sendMailClienPost/src/SendMailPost/SendMailPost" />
     </ignored-roots>
+    <MESSAGE value="практически финальные изменения, только нужно добавить вывод лога" />
+    <option name="LAST_COMMIT_MESSAGE" value="практически финальные изменения, только нужно добавить вывод лога" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -805,6 +761,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
