@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tarAXE:jar">
+    <output-path>F:/tarAXE</output-path>
+    <root id="archive" name="tarAXE.jar" />
+  </artifact>
+</component>

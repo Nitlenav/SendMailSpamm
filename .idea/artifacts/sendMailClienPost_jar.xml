@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="sendMailClienPost:jar">
+    <output-path>F:/</output-path>
+    <root id="archive" name="sendMailClienPost.jar">
+      <element id="module-output" name="sendMailClienPost" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Библитеки java/javax.mail.jar/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Библитеки java/Jaybird-3.0.2-JDK_1.8/jaybird-full-3.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
